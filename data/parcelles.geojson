@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "culture": "Maïs",
+        "region": "Kindia",
+        "superficie": 2.5,
+        "rendement_kg_ha": 3000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -13.3, 9.95 ], [ -13.29, 9.95 ], [ -13.29, 9.96 ], [ -13.3, 9.96 ], [ -13.3, 9.95 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "culture": "Riz",
+        "region": "Mamou",
+        "superficie": 3.2,
+        "rendement_kg_ha": 4000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -12.1, 10.4 ], [ -12.09, 10.4 ], [ -12.09, 10.41 ], [ -12.1, 10.41 ], [ -12.1, 10.4 ]]]
+      }
+    }
+  ]
+}
